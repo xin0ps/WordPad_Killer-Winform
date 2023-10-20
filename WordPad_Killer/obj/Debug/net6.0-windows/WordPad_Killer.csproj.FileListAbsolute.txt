@@ -1,0 +1,17 @@
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\obj\Debug\net6.0-windows\WordPad_Killer.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\obj\Debug\net6.0-windows\WordPad_Killer.Form1.resources
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\obj\Debug\net6.0-windows\WordPad_Killer.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\obj\Debug\net6.0-windows\WordPad_Killer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\obj\Debug\net6.0-windows\WordPad_Killer.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\obj\Debug\net6.0-windows\WordPad_Killer.AssemblyInfo.cs
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\obj\Debug\net6.0-windows\WordPad_Killer.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\bin\Debug\net6.0-windows\WordPad_Killer.exe
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\bin\Debug\net6.0-windows\WordPad_Killer.deps.json
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\bin\Debug\net6.0-windows\WordPad_Killer.runtimeconfig.json
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\bin\Debug\net6.0-windows\WordPad_Killer.dll
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\bin\Debug\net6.0-windows\WordPad_Killer.pdb
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\obj\Debug\net6.0-windows\WordPad_Killer.dll
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\obj\Debug\net6.0-windows\refint\WordPad_Killer.dll
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\obj\Debug\net6.0-windows\WordPad_Killer.pdb
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\obj\Debug\net6.0-windows\WordPad_Killer.genruntimeconfig.cache
+C:\Users\ROG\source\repos\WordPad_Killer\WordPad_Killer\obj\Debug\net6.0-windows\ref\WordPad_Killer.dll
